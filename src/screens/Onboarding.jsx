@@ -19,7 +19,7 @@ export default function Onboarding() {
           <TouchableOpacity>
             <Text style={styles.buttonTextSkip}>Skip</Text>
           </TouchableOpacity>
-          <TouchableOpacity style={styles.button} onPress={()=>navigate('Home')}>
+          <TouchableOpacity style={styles.button} onPress={()=>navigate('Login')}>
             <MaterialCommunityIcons name="arrow-right" size={27} color={color.white}/>
           </TouchableOpacity>
         </View>

@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-connectmeds-staging-214543-authRole",
+      "UnauthRoleArn": "arn:aws:iam::067842493816:role/amplify-connectmeds-staging-214543-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::067842493816:role/amplify-connectmeds-staging-214543-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-connectmeds-staging-214543-deployment",
+      "UnauthRoleName": "amplify-connectmeds-staging-214543-unauthRole",
+      "StackName": "amplify-connectmeds-staging-214543",
+      "StackId": "arn:aws:cloudformation:us-east-1:067842493816:stack/amplify-connectmeds-staging-214543/7c9fca10-8980-11ee-ac56-0e16b347cb43",
+      "AmplifyAppId": "d39lnfaj8byv0n"
+    }
+  }
+}
